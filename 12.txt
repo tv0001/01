@@ -34,10 +34,13 @@
 凤凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰中文,http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰资讯,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 
-
+凤凰香港,http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+鳳凰衛視電影台,rtmp://58.200.131.2:1935/livetv/fhdy
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
 凤凰香港,http://223.110.245.137/PLTV/3/224/3221226975/index.m3u8
@@ -2140,15 +2143,196 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 
 
 港台频道,#genre#
-壹新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
-
-三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
-三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
-
-东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
-
-TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
-三立新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
-卫视电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
-美亚电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
-龙祥电影,http://sytv.xtvants.fun/mytv.php?id=lxsd&token=free&user=free
+中视,rtmp://59.124.75.138/sat/tv091#http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8#http://sytv.xtvants.fun/mytv.php?id=zsxw&token=free&user=free
+中视经典,http://sytv.xtvants.fun/mytv.php?id=zsjd&token=free&user=free
+中视菁采台,http://sytv.xtvants.fun/mytv.php?id=zsjc&token=free&user=free
+华视,rtmp://59.124.75.157/sat/tv111#http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+華視教育文化 HD,http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
+華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8#http://sytv.xtvants.fun/mytv.php?id=hsxw&token=free&user=free
+國會頻道1,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/parliamentarytv1.m3u8
+國會頻道2,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/parliamentarytv2.m3u8
+台视,rtmp://59.124.75.157/sat/tv071#http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8#http://sytv.xtvants.fun/mytv.php?id=tsxw&token=free&user=free
+台視綜合,http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
+台視財經,http://sytv.xtvants.fun/mytv.php?id=tscj&token=free&user=free
+公视,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8#https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
+公视2,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS2.m3u8
+公视3,http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
+民视,http://seb.sason.top/ptv/ftv.php?id=ms#rtmp://59.124.75.157/sat/tv051#http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+民视第一台,http://seb.sason.top/ptv/ftv.php?id=dy
+民视新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ftvnews.m3u8
+民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw
+民视综艺台,http://seb.sason.top/ptv/ftv.php?id=zy
+民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
+民視旅游,http://seb.sason.top/ptv/ftv.php?id=ly
+原住民频道,http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b4000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
+寰宇HD综合 ★,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d24?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+寰宇新闻,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
+寰宇新聞台灣台,http://sytv.xtvants.fun/mytv.php?id=hyxw2&token=free&user=free
+中天綜合 HD,http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
+中天新聞 HD,http://seb.sason.top/sc/ztxw_fhd.m3u8#http://60.251.59.179:8515/xoxo.m3u8#http://sytv.xtvants.fun/mytv.php?id=ztxw&token=free&user=free
+中天娱乐台,http://125.227.210.55:15796/VideoInput/play.ts#http://sytv.xtvants.fun/mytv.php?id=ztyl&token=free&user=free
+中天亚洲台,http://sytv.xtvants.fun/mytv.php?id=ztyz&token=free&user=free
+东森综合台,http://60.251.59.179:8518/xoxo.m3u8#http://sytv.xtvants.fun/mytv.php?id=dszh&token=free&user=free
+东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8#http://60.251.59.179:8514/xoxo.m3u8#http://sytv.xtvants.fun/mytv.php?id=dsxw&token=free&user=free
+东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8#http://60.251.59.179:8517/xoxo.m3u8#rtmp://59.124.75.157/sat/tv571
+东森超视,rtmp://59.124.75.157/sat/tv771#rtmp://59.124.75.157/sat/tv771#http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
+东森电影台,http://sytv.xtvants.fun/mytv.php?id=dsdy&token=free&user=free
+东森洋片台,http://125.227.210.37:18685/VideoInput/play.ts
+东森戏剧台,http://125.227.210.55:17524/VideoInput/play.ts
+东森幼幼台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ebcyoyo.m3u8
+TVBS,http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
+TVBS新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8#http://iptv.tvfix.org/hls/tvbsnews.m3u8#http://125.227.210.55:16329/VideoInput/play.ts#rtmp://59.124.75.157:1935/sat/tv551
+TVBS欢乐台,rtmp://59.124.75.157/sat/tv421
+TVBS精采台,http://sytv.xtvants.fun/mytv.php?id=tvbsjc&token=free&user=free
+TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
+三立综合台,http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
+三立财经新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8#http://seb.sason.top/sc/slinews_fhd.m3u8
+三立Live新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8
+三立新闻台,http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8#http://125.227.210.55:15589/VideoInput/play.ts
+三立戏剧,http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
+三立台湾台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#http://125.227.210.55:15714/VideoInput/play.ts
+三立都会台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8#http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free
+壹電影,http://sytv.xtvants.fun/mytv.php?id=ydy&token=free&user=free
+年代新闻台,http://125.227.210.37:11055/VideoInput/play.ts
+年代MUCH HD,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
+非凡新闻台,http://125.227.210.37:15078/VideoInput/play.ts
+非凡商業台,http://50.7.61.147:30080/Entry/ubnbus
+纬来综合台 ★,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
+纬来精采 ★,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
+纬来戏剧台 ★,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
+纬来电影台,http://60.251.59.179:8543/xoxo.m3u8
+纬来体育台,http://125.227.210.55:18358/VideoInput/play.ts
+纬来体育台,rtmp://59.124.75.157/sat/tv721
+纬来体育台,rtmp://59.124.75.157/sat/tv721
+纬来日本台,rtmp://59.124.75.157/sat/tv521
+緯來育樂,rtmp://59.124.75.157/sat/tv701
+緯來育樂,rtmp://59.124.75.157/sat/tv701
+卫视电影台,http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8#http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
+卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
+龍華戲劇,http://sytv.xtvants.fun/mytv.php?id=lhxj&token=free&user=free
+龍華偶像,http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
+龍華電影,http://sytv.xtvants.fun/mytv.php?id=lhdy&token=free&user=free
+龍華洋片,http://sytv.xtvants.fun/mytv.php?id=lhyp&token=free&user=free
+龍華影劇,http://sytv.xtvants.fun/mytv.php?id=lhrh&token=free&user=free
+龍華動畫,http://sytv.xtvants.fun/mytv.php?id=lhkt&token=free&user=free
+高點綜合台,http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free
+高點育樂台,http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free
+采昌影劇台,http://sytv.xtvants.fun/mytv.php?id=ccyj&token=free&user=free
+影迷數位電影台,http://sytv.xtvants.fun/mytv.php?id=ymswdy&token=free&user=free
+CATCHPLAY電影台,http://sytv.xtvants.fun/mytv.php?id=catchplay&token=free&user=free
+霹靂台灣台,http://sytv.xtvants.fun/mytv.php?id=pltw&token=free&user=free
+JET綜合台,http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
+大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+爱尔达体育3,rtmp://161.202.204.248/sat/md051
+爱尔达综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+爱尔达影剧,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+FOX體育,rtmp://59.124.75.157/sat/tv731
+FOX2體育,rtmp://59.124.75.157/sat/tv741
+FOX HD,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
+FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+FOX動作電影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+FOX家庭電影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+博斯高球,http://sytv.xtvants.fun/mytv.php?id=bsgq&token=free&user=free
+博斯高球II,http://sytv.xtvants.fun/mytv.php?id=bsgq2&token=free&user=free
+博斯網球,http://sytv.xtvants.fun/mytv.php?id=bswq&token=free&user=free
+博斯運動一台,http://sytv.xtvants.fun/mytv.php?id=bsyd&token=free&user=free
+博斯魅力,http://sytv.xtvants.fun/mytv.php?id=bsml&token=free&user=free
+博斯運動二台,http://sytv.xtvants.fun/mytv.php?id=bsyd2&token=free&user=free
+博斯無限,http://sytv.xtvants.fun/mytv.php?id=bswx&token=free&user=free
+博斯無限二台,http://sytv.xtvants.fun/mytv.php?id=bswx2&token=free&user=free
+HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+Food亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+BBC lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+EVE,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
+SLEVEN2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
+Nick,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+Nick JR,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+Babytv,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+Cbeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+Disneyxd,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+Disneyjr,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+HBO,http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=M200000000000519104841&ct=18639&tsum=c5edc8fc8db4672fc2f3f7111c99ec7b
+TLC旅遊生活,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
+韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
+亞洲旅遊台,http://sytv.xtvants.fun/mytv.php?id=yzly&token=free&user=free
+寶寶世界,http://sytv.xtvants.fun/mytv.php?id=bbsj&token=free&user=free
+Medici-Arts,http://sytv.xtvants.fun/mytv.php?id=mdqys&token=free&user=free
+MTV綜合台,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
+Global,#genre#
+ABC News (Australia),https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/abcau.m3u8
+ABC News,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/abcus.m3u8#https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8#https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+ABC News LIVE,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+Africa News,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/africanews.m3u8
+Al-Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8#http://125.227.210.37:8938/VideoInput/play.ts
+Arirang Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
+Arirang TV World,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/Arirang.m3u8
+BBC News,http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8#http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+BBC World News,http://125.227.210.37:10246/VideoInput/play.ts#http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8#http://gcs2.xyz:2052/anh/123/1109862
+beIN Sports 1 Asia,https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+beIN Sports 1 English,https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+beIN Sports 2 English,https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+beIN Sports 1 Premium,http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+beIN Sports 2 Premium,http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+BeIN Sports Xtra,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+Bloomberg,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
+Bloomberg Asia,https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+Bloomberg TV Asia Live Event,https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+Bloomberg US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+CBC News,https://1111296894.rsc.cdn77.org/LS-ATL-54548-8/index.m3u8
+CBSN,https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8#http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+Channel News Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNBC,http://125.227.210.55:16415/VideoInput/play.ts#rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d44?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+CNBC 18,https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8#http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR-G5bW915tm3doU1__zXZe0/m3u8#
+Deutsche Welle (English),https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/DW.m3u8#https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
+DPRK Central Television,https://tv.nknews.org/tvdash/stream.mpd
+Euronews English,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8#https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/euronews.m3u8
+FOX Business,https://gma2.blab.email/espnu.m3u8
+Fox News,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+France 24,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/france24.m3u8#http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8#https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
+JTBC,http://211.245.55.198:1024/m2u/239.192.58.7:49220
+KBS 1,http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
+KBS 2,http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
+KBS 24,http://123.30.146.182:8080/256/video.m3u8
+KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+NASA Media Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+NBC News Now,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+NBC News Now Event 1,https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
+NBC News Now Event 2,https://nbcnews-lh.akamaihd.net/i/nbc_live12@187393/master.m3u8
+NBC News Now Event 3,https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8
+NBC News Now Event 4,https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
+NDTV 24X7,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8#https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/master.m3u8#https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/playlist.m3u8
+NHK WORLD JAPAN HD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8#https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8#https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index.m3u8#https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+Nippon TV News24 Japan,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+NTD East,https://live02.ntdtv.com/NTDA/tracks-v5a1/mono.m3u8
+NTD West,https://live02.ntdtv.com/NTD-West/tracks-v5a1/mono.m3u8
+NTD UK,https://live01.ntdtv.com/NTD-UK/tracks-v5a1/mono.m3u8
+Olympic Channel,https://www.navchina.cf/IPTV/Olympics.php
+Press TV,https://live.presstv.ir/liveprs/smil:liveprs/chunklist_w359289202_b944100_slen.m3u8
+RT,http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8#http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8#https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
+RT America,http://rt-usa.secure.footprint.net/1105.m3u8
+RT Documentary HD [ENG],http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+RT Documentary HD [RUS],https://uiptv.do.am/1ufc/300663722/playlist.m3u8#http://rtmp.api.rt.com/hls/rtdru.m3u8
+Россия 24,http://uiptv.do.am/1ufc/000000006/playlist.m3u8#http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
+SBS,https://www.navchina.cf/IPTV/sbs.php?id=S01#http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8 
+SBS International,https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+SBS Plus International,https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+sky news,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8#https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8#https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+Telesur,https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+The Wall Street Journal Live,https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8#https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
+TRT World,https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+tvN,http://211.245.55.198:1024/m2u/239.192.53.7:49220
+United Nations TV,http://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-p.m3u8?sd=10&rebase=on
+USA Today,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8#https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u8
+WION,https://d3neuepii3rf1i.cloudfront.net/v1/manifest/8fe6b38eb3580727128fa5d6759fbc48b3ec1c7e/Zee_News_MT_POC/16a5e2b6-ce18-4a30-9b4a-929b08815272/4.m3u8
+YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+YTN Korean,http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/playlist.m3u8
